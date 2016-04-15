@@ -1,0 +1,9 @@
+{
+    "name": "schuelerbuero/teasers",
+    "version": "0.1",
+    "type": "pagekit-extension",
+    "title": "Teasers",
+    "extra": {
+      "scripts": "scripts.php"
+    }
+}
